@@ -1,6 +1,3 @@
-### Backend README
-
-```markdown
 # Task Management Backend
 
 ## Description
